@@ -2,7 +2,7 @@
 
 ## About This Portfolio
 
-Welcome! My name is **Alexis-Star Yarbrough**, and I am currently studying **Robotics and Artificial Intelligence**. This repository showcases projects, case studies, and research completed throughout my **ITAI 2372: Advanced Topics in Artificial Intelligence** course.
+Welcome! My name is **Star Yarbrough**, and I am currently studying **Robotics and Artificial Intelligence**. This repository showcases projects, case studies, and research completed throughout my **ITAI 2372: Advanced Topics in Artificial Intelligence** course.
 
 Throughout this course, I explored how artificial intelligence is transforming industries through automation, machine learning, data analysis, and intelligent decision-making. My work emphasizes not only the technical capabilities of AI but also the ethical, social, and business considerations that accompany these technologies.
 
